@@ -1,0 +1,24 @@
+
+##################################################
+############## WHIP ENGINE TODOLIST ##############
+##################################################
+####
+####--> whip::vector'ü geliþtir
+####--> whip::aops fonksiyonlarýný tamamla
+####--> iterator traits !
+####--> whip::array'in constexpr durumlarýný ve random sýnýflarýnýn constexpr durumlarýný güncelle
+####--> random sýnýflarýný tamamla
+####--> hash sýnýflarýný .cpp dosyasýna da böl ve macrolarla çalýþ
+####--> arithmetic_array'i bitir
+####--> algorithms header'ýný geliþtir -> find fonksiyonunu yap ve layerstack.cpp'yi düzenle
+####--> pair header'ýný geliþtir
+####--> filesystem header'ýný geliþtir
+####--> string operations header'ýný geliþtir
+####--> whip::tuple'a bi bak hatalar var sanki
+####--> whip::unordered_map! -> hash'i düzelttikten sonra
+####--> memory header'ýný yeniden yap
+####--> bir önceki maddeye ek olarak memory ve memory util birleþebilir veya memory util, memory olur smart pointerlar ayrý dosyalarda tanýmlanýr
+####
+##################################################
+##################################################
+##################################################
